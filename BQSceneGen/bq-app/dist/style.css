@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(186, 161, 196, 0.9);
+}
+.app{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    font-family: 'Cinzel', serif;
+}
+
+button{
+    background: rgba(186, 161, 196, 0.8);
+    border-top: 2px solid #3F3757;
+    border-bottom: 2px solid #3F3757;
+    padding: 3px 8px;
+    cursor: pointer;
+    outline: 0;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Mate SC', serif;
+    text-transform: lowercase;
+    font-size: 18px;
+    font-variant: small-caps;
+    letter-spacing: 1px;
+}
+ }
+
+#header{
+    font-family: 'Cinzel', serif;
+}
+
+#dropdowns{
+    font-size: 25px;
+    font-family: 'Mate SC', serif;
+    margin: 0 auto;
+    width: 400px;
+    height: 100px;
+}
+
+#moodDisplay{
+    font-family: 'Mate SC', serif;
+    font-size: 30px;
+    margin: auto;
+    height: 35px;
+}
+
+#generatedContent{
+    width: 600px;
+    height: 100px;
+    font-family: 'Mate SC', serif;
+    font-size: 20px;
+    margin: auto;
+    line-height: 10px;
+}
+
+#footer{
+    margin: auto;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Mate SC', serif;
+}
